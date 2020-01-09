@@ -3,9 +3,12 @@ body{
 }
 h1{
     text-align: center;
+    color: floralwhite;
 }
 
-
+h3 {
+    color: floralwhite;
+}
 .column {
     border: 5px solid black;
     width: 30%;
@@ -18,12 +21,13 @@ img {
     width: 60%;
     margin-inline-start: 20%;
 }
-
 .column p{
     text-align: center;
+    font-family: fantasy;
 }
 .column h2{
     text-align: center;
+    color: firebrick;
 }
 h3{
     text-align: center;
@@ -32,3 +36,11 @@ h3{
     text-align: center;
     color: darkred;
 }
+
+span{
+
+    font-weight: bold;
+    color: floralwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+} 
