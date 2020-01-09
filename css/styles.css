@@ -22,3 +22,13 @@ img {
 .column p{
     text-align: center;
 }
+.column h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.column h3{
+    text-align: center;
+    color: darkred;
+}
